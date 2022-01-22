@@ -5,6 +5,7 @@
         "php": ">=7.4",
         "alibabacloud/sls-20201230": "^1.0"
     },
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Wuxuejian\\AliyunSLSLog\\": "src"
